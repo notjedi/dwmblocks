@@ -26,4 +26,4 @@ Note that all modules must have different signal numbers.
 
 # patches
 This build allows you to build in additional actions into your scripts in response to click events. 
-See the above linked scripts for examples of this using the $BUTTON variable. The statuscmd patch can be found [here](https://dwm.suckless.org/patches/statuscmd):
+See the above linked scripts for examples of this using the $BUTTON variable. The statuscmd patch can be found [here](https://dwm.suckless.org/patches/statuscmd)

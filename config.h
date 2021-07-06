@@ -2,6 +2,7 @@
 static const Block blocks[] = {
 	/*Command*/						/*Update Interval*/			/*Update Signal*/
 	{"dbspotify",					5,						    7},
+	{"dbprice eth 🤑",		        600,					    6},
 	/* {"dbnettraf",					1,						    8}, */
 	{"dbdiskusage",					300,						9},
 	{"dbvolume",					0,							10},
