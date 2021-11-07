@@ -1,8 +1,9 @@
 //Modify this file to change what commands output to your statusbar, and recompile using the make command.
+/* 💰   🤑  */
 static const Block blocks[] = {
 	/*Command*/						/*Update Interval*/			/*Update Signal*/
 	{"dbspotify",					5,						    7},
-	{"dbprice eth 🤑",		        600,					    6},
+	{"dbprice ada 💰",		         60,					     6},
 	/* {"dbnettraf",					1,						    8}, */
 	{"dbdiskusage",					300,						9},
 	{"dbvolume",					0,							10},
