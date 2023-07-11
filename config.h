@@ -4,9 +4,9 @@ static const Block blocks[] = {
 	/*Command*/						/*Update Interval*/			/*Update Signal*/
 	{"dbspotify",					5,						    7},
 	{"dbnettraf",					1,						    8},
-	{"dbprice ada 💰",		         600,					     6},
 	{"dbdiskusage",					300,						9},
 	{"dbvolume",					0,							10},
+	{"dbbattery",					30,							6},
 	{"dbmemusage",					10,							11},
 	{"dbcpuusage",					10,							12}, /* costly, so i run it only every 10 secs */
 	{"dbcputemp",					10,							13},
